@@ -1,0 +1,58 @@
+[
+  { "name": "Grocery", "img_src": "https://rukminim2.flixcart.com/flap/83/83/image/29327f40e9c4d26b.png?q=100" },
+
+  {
+    "name": "Mobiles",
+    "img_src": "https://rukminim2.flixcart.com/flap/83/83/image/22fddf3c7da4c4f4.png?q=100"
+  },
+
+  {
+    "name": "Fashion",
+    "img_src": "https://rukminim2.flixcart.com/fk-p-flap/83/83/image/0d75b34f7d8fbcb3.png?q=100"
+  },
+
+  {
+    "name": "Electronics",
+    "img_src": "https://rukminim2.flixcart.com/flap/83/83/image/69c6589653afdb9a.png?q=100"
+  },
+
+  {
+    "name": "Home",
+    "img_src": "https://rukminim2.flixcart.com/flap/83/83/image/ab7e2b022a4587dd.jpg?q=100"
+  },
+
+  {
+    "name": "Appliances",
+    "img_src": "https://rukminim2.flixcart.com/fk-p-flap/83/83/image/0139228b2f7eb413.jpg?q=100"
+  },
+
+  {
+    "name": "Travels",
+    "img_src": "https://rukminim2.flixcart.com/flap/83/83/image/71050627a56b4693.png?q=100"
+  },
+
+  {
+    "name": "2Wheelers",
+    "img_src": "https://rukminim2.flixcart.com/fk-p-flap/83/83/image/05d708653beff580.png?q=100"
+  },
+
+  {
+    "name": "Sport",
+    "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37yKNpwR4MVKOHIqzyxknRUv4QPfTpjVddA&s"
+  },
+
+  {
+    "name": "Educational",
+    "img_src": "https://img.freepik.com/premium-psd/premium-notepad-with-pencil-using-wallpaper-education-business-photo-take-note-product-book-with-paper-concept-copy-space-png_1054285-24520.jpg"
+  },
+
+  {
+    "name": "Food",
+    "img_src": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbGlmZW9mcGl4MDAwMDEtaW1hZ2VfMS1renhsdXd3ci5wbmc.png"
+  },
+
+  {
+    "name": "Coldrings",
+    "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZjmKcTK5q-f9Yt2bjBzOnO6x9sHNJyqcoJpeTV-xnzg&s"
+  }
+]

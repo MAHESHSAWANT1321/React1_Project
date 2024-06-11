@@ -1,0 +1,15 @@
+.category span{
+    font-weight: 500;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.category img{
+    width: 70px;
+    height: 70px;
+}
+
+/* .row{
+    display: flex;
+    justify-content: space-between;
+} */

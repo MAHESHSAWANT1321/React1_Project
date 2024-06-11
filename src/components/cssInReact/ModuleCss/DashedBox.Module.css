@@ -1,0 +1,17 @@
+.container{
+    margin: 40px;
+    border: 5px dashed rgb(234, 77, 103);
+}
+.content{
+    font-size: 15px;
+    text-align: center;
+    color: green;
+}
+.error{
+    color: red;
+} 
+/*div{
+    margin: 40px;
+        border: 5px dashed pink;
+
+} */
